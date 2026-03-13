@@ -1,0 +1,6 @@
+# Runtime dependencies
+# No external dependencies required for the core toolkit.
+# The tools use Python's standard library only.
+
+# Development / testing dependencies
+pytest>=7.0.0
